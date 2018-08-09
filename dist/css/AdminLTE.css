@@ -461,6 +461,7 @@ a:focus {
   width: 100%;
   padding: 10px;
   overflow: hidden;
+
 }
 .user-panel:before,
 .user-panel:after {
@@ -495,6 +496,30 @@ a:focus {
 .user-panel > .info > a > .ion,
 .user-panel > .info > a > .glyphicon {
   margin-right: 3px;
+}
+.kuy-sharing{
+  border-top: 1px solid #eae9e9;
+  background-color: #fff;
+  padding: 50px 0;
+}
+.kuy-sharing h2{
+  font-size: 36px;
+  margin-bottom: 50px;
+}
+.kuy-sharing .detail{
+  border:1px solid #eae9e9;
+  padding: 15px;
+}
+.kuy-sharing .detail img{
+  margin-bottom: 10px;
+}
+.kuy-sharing .detail h3{
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+.kuy-sharing .detail h5{
+  margin-top: 15px;
+  font-size: 18px;
 }
 .sidebar-menu {
   list-style: none;
